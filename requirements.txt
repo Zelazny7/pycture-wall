@@ -1,0 +1,5 @@
+bottle
+opencv-python
+flake8
+autopep8
+imutils
